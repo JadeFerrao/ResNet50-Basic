@@ -6,7 +6,7 @@ This repository contains pre-trained ResNet50 models implemented using Keras for
 
 ## Flowers Dataset
 
-The pre-trained model in this section has been trained using the popular flowers dataset. The flowers dataset is a benchmark for image classification, widely used for testing and benchmarking different machine learning models. The pre-trained model can be used for various applications related to image recognition and classification.
+The pre-trained model in this section has been trained using the popular flowers ImageNet dataset. The flowers dataset is a benchmark for image classification, widely used for testing and benchmarking different machine learning models. The pre-trained model can be used for various applications related to image recognition and classification.
 
 ### Model Details
 
@@ -21,7 +21,7 @@ To use the pre-trained model for the flowers dataset, you can utilize the provid
 
 ## Diabetes Retinopathy Dataset
 
-The pre-trained model in this section has been trained using the diabetes retinopathy dataset. This dataset is commonly used in medical imaging for diagnosing and classifying diabetic retinopathy, a diabetes complication that affects eyes. The pre-trained model can be used for diagnosing and classifying diabetic retinopathy in medical image analysis applications.
+The pre-trained model in this section has been trained using the ATPOS diabetes retinopathy dataset. This dataset is commonly used in medical imaging for diagnosing and classifying diabetic retinopathy, a diabetes complication that affects eyes. The pre-trained model can be used for diagnosing and classifying diabetic retinopathy in medical image analysis applications.
 
 ### Model Details
 
