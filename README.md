@@ -1,6 +1,6 @@
 # ResNet50-Basic
 
-# Pre-trained ResNet50 Models using Keras
+## Pre-trained ResNet50 Models using Keras
 
 This repository contains pre-trained ResNet50 models implemented using Keras for two different datasets: flowers dataset and diabetes retinopathy dataset.
 
